@@ -131,3 +131,5 @@ dmypy.json
 # Mac folder files
 .DS_Store
 Flatiron
+.secrets/
+Assessments/*
