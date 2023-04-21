@@ -133,3 +133,5 @@ dmypy.json
 Flatiron
 .secrets/
 Assessments/*
+
+.vscode/
